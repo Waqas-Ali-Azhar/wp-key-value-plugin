@@ -1,5 +1,7 @@
 #all-enteries tr:first-of-type td{
   border: none;
+  background: red;
+
 }
 #all-enteries tr td{
   border: 1px solid black;
