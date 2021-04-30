@@ -1,0 +1,7 @@
+#all-enteries tr:first-of-type td{
+  border: none;
+}
+#all-enteries tr td{
+  border: 1px solid black;
+  width: 200px;
+}
